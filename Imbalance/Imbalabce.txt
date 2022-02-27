@@ -1,0 +1,7 @@
+https://towardsdatascience.com/data-imbalance-in-regression-e5c98e20a807
+
+https://elitedatascience.com/imbalanced-classes
+
+https://towardsdatascience.com/the-power-of-long-tailed-distributions-bd46f8856039
+
+https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/

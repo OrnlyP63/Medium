@@ -1,0 +1,9 @@
+https://distill.pub/2019/visual-exploration-gaussian-processes/
+
+https://www.cs.toronto.edu/~duvenaud/cookbook/
+
+https://arxiv.org/pdf/1806.07572.pdf
+
+https://arxiv.org/pdf/1912.02803.pdf
+
+https://peterroelants.github.io/posts/gaussian-process-tutorial/
