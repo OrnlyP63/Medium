@@ -7,7 +7,7 @@ df = pd.read_csv('winequality-red.csv', sep=';')
 columns = df.columns
 st.title("Basic ML App for 🍷 quality prediction")
 st.write('Example Data:')
-df.head()
+st.dataframe(df.head())
 meta_data = df.describe()
 min_data = meta_data.loc['min', :]
 max_data = meta_data.loc['max', :]
